@@ -1,4 +1,6 @@
 
-![PyLadies São Paulo 2 anos](/surpresa/img/2anos.jpg "PyLadies São Paulo 2 anos")
+![PyLadies São Paulo Evento Fevereiro 2018 Palestras Além do Python](/surpresa/img/2018-02.jpg "PyLadies São Paulo - Fev 2018 - Palestras: Além do Python")
 
-**7 de setembro de 2017**
+**24 de fevereiro de 2018**
+
+[Detalhes do evento](http://bit.ly/plsp_fev2018)
